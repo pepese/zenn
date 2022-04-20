@@ -2,7 +2,7 @@
 title: "新規サービス開発のためのアジャイル"
 emoji: "😸"
 type: "idea"
-topics: ["agile"]
+topics: ["agile", "アジャイル"]
 published: true
 ---
 
